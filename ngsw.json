@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1619199167364,
+  "timestamp": 1619199679983,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "./favicon.ico",
         "./index.html",
-        "./main.dcf36949edad9b2ac96b.js",
+        "./main.e5f22d0f1f189e6fb1f9.js",
         "./manifest.webmanifest",
         "./polyfills.00096ed7d93ed26ee6df.js",
         "./runtime.7b63b9fd40098a2e8207.js",
@@ -56,8 +56,8 @@
     "./assets/perfil.jpg": "178b824fd6fab57b6a0c02c313f98ffa4d65aa92",
     "./assets/pokeBall.png": "1d89a2708e6a65b51cce366909b83f99f4b71fcc",
     "./favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "./index.html": "0032acd1231d730aa893d35339fcb91dcd69c2ea",
-    "./main.dcf36949edad9b2ac96b.js": "1de8f0b09bc4e3e1b352a97f609b137976f850c8",
+    "./index.html": "4b0079f251ee84c40e989666e211fb25a70eab55",
+    "./main.e5f22d0f1f189e6fb1f9.js": "f877305c7bdac37a4ea9084fac3e7299682c9fd9",
     "./manifest.webmanifest": "624bba9d56b7920281a50b8a3cdaf21df89beaab",
     "./polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "./runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
